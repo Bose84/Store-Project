@@ -28,9 +28,9 @@ Tools: npm, Git, GitHub
 
 🔗 Links
 
-Live Demo
+Live Demo - https://store-repo.netlify.app/
 
-GitHub Repo
+GitHub Repo - https://github.com/Bose84/Store-Project
 
 #### create all pages.
 
